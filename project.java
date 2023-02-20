@@ -7,7 +7,7 @@ public class Test
 
 	for(int i=1; i<= 5; i++)
 		System.out.println(tableNo + "*" + i + " = " + tableNo * i);
-		//test
+		//test2
 System.out.println("hello");
 	}
 }
